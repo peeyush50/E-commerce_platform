@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "sonner": "^1.7.4"
+  }
+}
